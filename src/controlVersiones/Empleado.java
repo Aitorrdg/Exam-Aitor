@@ -1,6 +1,7 @@
 package controlVersiones;
 
 public class Empleado {
+	//Conflicto
 	private String nombre;
 	private String apellidos;
 	private double salario;
